@@ -1,4 +1,4 @@
-//Aplicar los conceptos fundamentles de la Programación Orientada a Objetos.
+//Aplicar los conceptos fundamentles de la Programación Orientada a Objetos (POO).
 // --------------------------------------
 // Creación Clase Libro (POO); Método constructor utilizando la palabra clave this para asignar los parámetros recibidos a las propiedades del objeto
 // --------------------------------------
@@ -50,3 +50,4 @@ document.getElementById("btnIniciar").addEventListener("click", function () {
         libro.mostrarInfo();
     }
 });
+
